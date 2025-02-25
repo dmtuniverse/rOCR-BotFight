@@ -21,3 +21,5 @@ edit26; FAO WHOEVER OWNS THIS BOT: please do not delete this post if you see it,
 edit27; this post is now being mirrored at https://github.com/dmtuniverse/rOCR-BotFight  
 edit28; I have no idea if anyone has commented on this post. If you have and it's not upvoted, PM me a link and I'll upvote which will hopefully put it at the top. If not I'll add it to the OP.  
 edit29; I'll keep this post as a log and create a new post for my bot to auto-edit. Will link it here at the top of the post as and when. Might be tomorrow before I get this done.  
+edit30; we have a change in the system. Comments have stopped at 864. Lag? Rate limit? Bot owner? Bot parameters? Who knows. We'll see.  
+edit31; 884 comments. So lag. Unless the bot owner is watching. I would err on the side of lag.  
