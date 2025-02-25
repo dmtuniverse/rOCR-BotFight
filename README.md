@@ -19,4 +19,5 @@ edit24; 20 comments exactly from my last edit. Should have paid more attention t
 edit25; that's another 20 comments. Will have to make a new post to see what the ramp is on new posts as I'm almost sure it did more than 20 to start with. A task for later.  
 edit26; FAO WHOEVER OWNS THIS BOT: please do not delete this post if you see it, or at least give me fair warning. This is now an educational endeavor for me and I want to share my journey.  
 edit27; this post is now being mirrored at https://github.com/dmtuniverse/rOCR-BotFight  
-edit28; I have no idea if anyone has commented on this post. If you have and it's not upvoted, PM me a link and I'll upvote which will hopefully put it at the top. If not I'll add it to the OP.   
+edit28; I have no idea if anyone has commented on this post. If you have and it's not upvoted, PM me a link and I'll upvote which will hopefully put it at the top. If not I'll add it to the OP.  
+edit29; I'll keep this post as a log and create a new post for my bot to auto-edit. Will link it here at the top of the post as and when. Might be tomorrow before I get this done.  
